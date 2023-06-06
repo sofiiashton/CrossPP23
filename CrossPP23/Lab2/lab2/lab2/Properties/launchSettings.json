@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "Windows Machine": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": false
+    }
+  },
+  "sdk": {
+    "version": "7.0.100",
+    "rollForward": "latestMinor",
+    "allowPrerelease": true
+  }
+}

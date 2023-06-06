@@ -1,0 +1,63 @@
+﻿<Properties StartupConfiguration="{07AA9EBA-1369-4CBA-BEF1-60893757B81C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab2/MainPage.xaml">
+    <Files>
+      <File FileName="lab2/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="lab2/MauiProgram.cs" Line="1" Column="1" />
+      <File FileName="lab2/AppShell.xaml" Line="1" Column="1" />
+      <File FileName="lab2/ViewModels/MainViewModel.cs" Line="60" Column="50" />
+      <File FileName="lab2/MainPage.xaml" Line="45" Column="15" />
+      <File FileName="lab2/Controls/BorderedEntry.cs" />
+      <File FileName="lab2/Platforms/Android/Renderers/BorderedEntryRenderer.cs" />
+      <File FileName="lab2/App.xaml" Line="1" Column="1" />
+      <File FileName="lab2/AppShell.xaml.cs" Line="1" Column="1" />
+      <File FileName="lab2/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="lab2/Properties/AssemblyInfo.cs" />
+      <File FileName="lab2/Properties/launchSettings.json" />
+      <File FileName="lab2/Platforms/Windows/App.xaml" />
+      <File FileName="lab2/Platforms/Android/MainActivity.cs" />
+      <File FileName="lab2/Platforms/Android/MainApplication.cs" />
+      <File FileName="lab2/Platforms/Android/AndroidManifest.xml" />
+      <File FileName="lab2/Platforms/Windows/Package.appxmanifest" />
+      <File FileName="lab2/Resources/Images/dotnet_bot.svg" />
+      <File FileName="lab2.Tests/UnitTest1.cs" />
+      <File FileName="lab2/Platforms/Windows/App.xaml.cs" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.302/Microsoft.Common.CurrentVersion.targets" Line="1852" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab2" expanded="True">
+            <Node name="lab2" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Platforms" expanded="True">
+                <Node name="iOS" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="Images" expanded="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="lab2.Tests" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.lab2 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DB31EDA2-6F95-460C-A9A3-0F3CB0C6C4B2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.46" />
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DB31EDA2-6F95-460C-A9A3-0F3CB0C6C4B2" />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/sofiiashton/Projects/lab2/lab2/bin/Debug/net7.0/lab2.deps.json
+/Users/sofiiashton/Projects/lab2/lab2/bin/Debug/net7.0/lab2.dll
+/Users/sofiiashton/Projects/lab2/lab2/bin/Debug/net7.0/lab2.pdb
+/Users/sofiiashton/Projects/lab2/lab2/obj/Debug/net7.0/lab2.csproj.AssemblyReference.cache
+/Users/sofiiashton/Projects/lab2/lab2/obj/Debug/net7.0/lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofiiashton/Projects/lab2/lab2/obj/Debug/net7.0/lab2.AssemblyInfoInputs.cache
+/Users/sofiiashton/Projects/lab2/lab2/obj/Debug/net7.0/lab2.AssemblyInfo.cs
+/Users/sofiiashton/Projects/lab2/lab2/obj/Debug/net7.0/lab2.csproj.CoreCompileInputs.cache
+/Users/sofiiashton/Projects/lab2/lab2/obj/Debug/net7.0/XamlC.stamp
+/Users/sofiiashton/Projects/lab2/lab2/obj/Debug/net7.0/lab2.dll
+/Users/sofiiashton/Projects/lab2/lab2/obj/Debug/net7.0/refint/lab2.dll
+/Users/sofiiashton/Projects/lab2/lab2/obj/Debug/net7.0/lab2.pdb
+/Users/sofiiashton/Projects/lab2/lab2/obj/Debug/net7.0/ref/lab2.dll

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="lab2.MainPage"
+             xmlns:viewmodels="clr-namespace:lab2.ViewModels"
+             xmlns:viewmodels1="clr-namespace:lab2.ViewModels"
+             xmlns:controls="clr-namespace:lab2.Controls">
+
+    <ContentPage.BindingContext>
+        <viewmodels:MainViewModel />
+    </ContentPage.BindingContext>
+
+    <CollectionView ItemsSource="{Binding Items}"
+             ItemsLayout="VerticalList">
+    <CollectionView.ItemTemplate> <DataTemplate>
+            <Label
+                    Text="{Binding Title}"
+                    FontSize="16" /> </DataTemplate>
+    </CollectionView.ItemTemplate> </CollectionView>
+
+    <StackLayout Padding="30" Spacing="20" BackgroundColor="{Binding BackgroundColor}">
+
+        <Label
+            x:Name="DateTimeLabel"
+            Text="{Binding CurrentDateTime}"
+            FontSize="24" />
+
+        <Button
+            Text="Update Time"
+            Command="{Binding UpdateTimeCommand}" />
+
+        <controls:BorderedEntry
+            Placeholder="Enter here..." />
+
+        <Label
+            Text="{Binding DeviceInfo}"
+            FontSize="24" />
+
+        <Button
+            Text="Change Background Color"
+            Command="{Binding ChangeColorCommand}" />
+    </StackLayout>
+
+
+</ContentPage>
